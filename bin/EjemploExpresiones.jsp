@@ -12,6 +12,7 @@
 <%
     // Ejemplo 1: Imprimir una Variable
     String nombre = "Usuario";
+    
 %>
 <p>Bienvenido, <%= nombre %></p>
 
